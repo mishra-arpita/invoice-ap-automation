@@ -1,0 +1,4 @@
+invoice_number,vendor_id,vendor_name,invoice_date,po_number,total,status,processed_on
+NCH-54001,V004,Nimbus Cloud Hosting Ltd,2025-11-03,PO-0998,3600.00,APPROVED,2025-11-05
+GL-2026-0917,V003,GreenLeaf Facility Management,2026-10-05,PO-1003,6000.00,APPROVED,2026-10-07
+INV-2026-0042,V001,Acme Office Supplies Inc.,2026-10-14,PO-1005,1161.00,APPROVED,2026-10-16

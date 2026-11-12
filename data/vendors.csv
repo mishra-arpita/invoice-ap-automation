@@ -1,0 +1,6 @@
+vendor_id,vendor_name,aliases,status,payment_terms,notes
+V001,Acme Office Supplies Inc.,Acme Office Supplies|Acme Supplies,active,Net 30,Stationery and office furniture
+V002,BrightPath IT Services LLC,BrightPath IT|BrightPath,active,Net 15,IT support and laptop provisioning
+V003,GreenLeaf Facility Management,GreenLeaf Facilities|GreenLeaf FM,active,Net 30,Cleaning and facility services
+V004,Nimbus Cloud Hosting Ltd,Nimbus Cloud|Nimbus Hosting,active,Net 30,Cloud hosting
+V005,Swift Logistics Co.,Swift Logistics,blocked,Net 45,Blocked - bank details under verification

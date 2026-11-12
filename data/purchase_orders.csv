@@ -1,0 +1,9 @@
+po_number,vendor_id,description,po_amount,currency,status,issue_date
+PO-0998,V004,Cloud hosting - annual plan 2025-26,3600.00,USD,closed,2025-10-20
+PO-1001,V001,Office supplies - Q4 restock,2420.28,USD,open,2026-10-12
+PO-1002,V002,Laptop provisioning and IT support - November,5000.00,USD,open,2026-10-18
+PO-1003,V003,Facility management - Oct to Dec 2026,10000.00,USD,open,2026-09-28
+PO-1004,V004,Cloud hosting - annual plan 2026-27,3600.00,USD,open,2026-10-15
+PO-1005,V001,Printer toner and paper,1200.00,USD,open,2026-10-01
+PO-1006,V002,Help-desk support retainer - November,1250.00,USD,open,2026-10-25
+PO-1008,V003,One-off deep cleaning - warehouse,900.00,USD,open,2026-10-30
