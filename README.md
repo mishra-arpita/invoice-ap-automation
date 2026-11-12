@@ -2,7 +2,7 @@
 
 **AI Solutions Analyst take-home case study · PS-1 (Finance / AP): Invoice processing**
 
-> 🔗 **Live app:** `<PASTE-YOUR-STREAMLIT-URL-HERE>` · 🎥 **Demo video:** `<PASTE-VIDEO-URL-HERE>`
+> 🔗 **Live app:** `https://invoice-ap-automation-jcxvemsbjto5elmx9sb2b2.streamlit.app/` · 🎥 **Demo video:** `https://www.loom.com/share/670c0da212ec49b8b589c14aeb75b473`
 > *(Free apps sleep when idle. If the page asks, click "Yes, get this app back up!" and wait about 30 seconds.)*
 
 InvoiceFlow takes a vendor invoice PDF and decides what the Accounts Payable team should do with it:
